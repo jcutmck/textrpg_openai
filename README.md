@@ -1,4 +1,4 @@
-# JSON to CSV Converter
+# Text-based RPG using OpenAI API as Responsive Narrative Generator
 
 This is a prototype project to practice integration and feasibility of a user-facing javascript text-based RPG game where the web app utilizes the OpenAI API to respond in near real-time to the user's inputs. In theory, this creates a unique, dynamic adventure game for each user, each time they play. There are obvious concerns with this infrastructure due to stacking requests throughout the game and the subsequent cost for AI usage over time, but the foundation is simple and good for demonstrating the ease of creation of such apps.
 
