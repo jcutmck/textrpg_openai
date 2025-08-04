@@ -25,7 +25,7 @@ This is a prototype project to practice integration and feasibility of a user-fa
 2. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/jcutmck/cal_time-alyzer/tree/main](https://github.com/jcutmck/cal_time-alyzer/tree/main)
+    git clone https://github.com/jcutmck/textrpg_openai.git
     ```
 
 3. **Start the frontend:**
